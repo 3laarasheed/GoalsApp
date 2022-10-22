@@ -1,2 +1,2 @@
 # GoalsApp
-This is my first complete React native app
+This is my first complete React native app {Expo}
