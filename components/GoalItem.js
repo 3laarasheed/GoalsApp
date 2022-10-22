@@ -60,17 +60,3 @@ const styles = StyleSheet.create({
 // }
 
 // export default GoalItem;
-
-// const styles = StyleSheet.create({
-//   goalItem: {
-//     margin: 8,
-//     padding: 8,
-//     borderRadius: 6,
-//     backgroundColor: "#5e0acc",
-//     //color: "white",
-//     // for you to know child can't inherit style from parent
-//   },
-//   goalText: {
-//     color: "white",
-//   },
-// });

@@ -192,14 +192,4 @@ const styles = StyleSheet.create({
 //   );
 // }
 
-// const styles = StyleSheet.create({
-//   appContainer: {
-//     flex: 1,
-//     paddingTop: 50,
-//     paddingHorizontal: 16,
-//   },
 
-//   goalsContainer: {
-//     flex: 5,
-//   },
-// });
